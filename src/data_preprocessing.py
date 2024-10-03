@@ -6,7 +6,7 @@ from nltk.corpus import stopwords
 import string
 import nltk
 nltk.download('stopwords')
-nltk.download('punkt')
+nltk.download('punkt_tab', force=True)
 
 from logger_setup import Logger
 
