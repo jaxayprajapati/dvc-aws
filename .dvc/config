@@ -1,0 +1,4 @@
+[core]
+    remote = dvc-artifacts
+['remote "dvc-artifacts"']
+    url = s3://dvc-practise
